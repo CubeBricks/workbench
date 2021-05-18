@@ -1,0 +1,4 @@
+Remember to use notepad or any script editor!
+we recomened to use Visual Studio Code!
+https://code.visualstudio.com/
+and submit css, html.
